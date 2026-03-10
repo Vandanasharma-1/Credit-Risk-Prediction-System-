@@ -161,8 +161,7 @@ Project documentation
 Clone the repository:
 
 
-git clone https://github.com/yourusername/credit-risk-prediction.git
-
+git clone https://github.com/Vandanasharma-1/Credit-Risk-Prediction-System-.git
 cd credit-risk-prediction
 
 

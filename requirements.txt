@@ -1,0 +1,22 @@
+# Data Manipulation & Analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning & Optimization
+scikit-learn
+xgboost
+lightgbm
+
+# System Utilities
+psutil
+
+# Deployment (Streamlit App)
+streamlit
+
+# Serialization
+joblib
